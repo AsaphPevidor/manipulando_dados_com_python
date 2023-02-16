@@ -34,3 +34,33 @@ NaN       - Dados faltantes
 Wide to long  - Transforma DataFrame comprido(muitas colunas) em um DataFrame mais curto
               Utiliza metodo .melt
 
+Numpy     - Biblioteca que utiliza cálculos da estatística e matemática
+
+.median   - Método da biblioteca numpy, que da o resultado da mediana dos dados
+
+.date_range   - Método do pandas, que permite selecionar as datas através de um intervalo
+
+.str[]    - Método que permite fazer manipulação de dados de uma coluna do DataFrame
+
+.drop     - Método usado para remoção de dados
+
+.count    - Método de contagem
+
+.strftime() - Função que da o dia da semana, a semana que pertence a data
+
+.rename()   - Método que troca nome de colunas ou linhas
+
+.concat()   - Método que junta DataFrames
+
+OHLC        - Formatação de DataFrame (padrão yfinance)
+
+Binning     - Tranforma resultado quantitativo em qualitativo
+
+.crosstab() - Método que cruza informações de 2 colunas no DataFrame
+
+.sort_values  - Método do pandas que ordena coluna do DataFrame
+
+.pivot_table  - 
+
+
+
